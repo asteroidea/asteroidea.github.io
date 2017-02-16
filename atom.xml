@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[深海星空]]></title>
+  <link href="http://asteroidea.github.io/atom.xml" rel="self"/>
+  <link href="http://asteroidea.github.io/"/>
+  <updated>2017-07-25T20:11:33+08:00</updated>
+  <id>http://asteroidea.github.io/</id>
+  <author>
+    <name><![CDATA[]]></name>
+    
+  </author>
+  <generator uri="http://www.coderforart.com/">CoderForArt</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[新的起点]]></title>
+    <link href="http://asteroidea.github.io/15009848552260.html"/>
+    <updated>2017-07-25T20:14:15+08:00</updated>
+    <id>http://asteroidea.github.io/15009848552260.html</id>
+    <content type="html"><![CDATA[
+<p>今天的脚印, 明天的美好回忆</p>
+
+<p><img src="media/15009848552260/seastar.jpg" alt="seasta"/></p>
+
+]]></content>
+  </entry>
+  
+</feed>
